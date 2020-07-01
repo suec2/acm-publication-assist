@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<erights_record>
+  <parent_data>
+    <proceeding>11214</proceeding>
+    <volume/>
+    <issue/>
+    <issue_date/>
+    <source/>
+  </parent_data>
+  <paper>
+    <paper_type>Poster Paper</paper_type>
+    <paper_title>Poster: Optimal Storage Control for Dynamic Pricing</paper_title>
+    <event_tracking_number>eenergy20posterdemo-p1</event_tracking_number>
+    <published_article_number/>
+    <start_page/>
+    <end_page/>
+    <authors>
+      <author>
+        <prefix/>
+        <first_name>Jiaman</first_name>
+        <middle_name/>
+        <last_name>Wu</last_name>
+        <suffix/>
+        <affiliation>Tsinghua University</affiliation>
+        <country/>
+        <email_address>wjm18@mails.tsinghua.edu.cn</email_address>
+        <sequence_no>1</sequence_no>
+        <contact_author>Y</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Zhiqi</first_name>
+        <middle_name/>
+        <last_name>Wang</last_name>
+        <suffix/>
+        <affiliation>Tsinghua University</affiliation>
+        <country/>
+        <email_address>wangzhiq19@mails.tsinghua.edu.cn</email_address>
+        <sequence_no>2</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Yang</first_name>
+        <middle_name/>
+        <last_name>Yu</last_name>
+        <suffix/>
+        <affiliation>Tsinghua University</affiliation>
+        <country/>
+        <email_address>yangyu1@tsinghua.edu.cn</email_address>
+        <sequence_no>3</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Chenye</first_name>
+        <middle_name/>
+        <last_name>Wu</last_name>
+        <suffix/>
+        <affiliation>Tsinghua University</affiliation>
+        <country>China</country>
+        <email_address>chenyewu@tsinghua.edu.cn</email_address>
+        <sequence_no>4</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+    </authors>
+  </paper>
+  <paper>
+    <paper_type>Poster Paper</paper_type>
+    <paper_title>Poster: Understanding Differential Privacy in Non-Intrusive Load Monitoring</paper_title>
+    <event_tracking_number>eenergy20posterdemo-p2</event_tracking_number>
+    <published_article_number/>
+    <start_page/>
+    <end_page/>
+    <authors>
+      <author>
+        <prefix/>
+        <first_name>Haoxiang</first_name>
+        <middle_name/>
+        <last_name>Wang</last_name>
+        <suffix/>
+        <affiliation>Tsinghua University</affiliation>
+        <country/>
+        <email_address>wanghaox19@mails.tsinghua.edu.cn</email_address>
+        <sequence_no>1</sequence_no>
+        <contact_author>Y</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Chenye</first_name>
+        <middle_name/>
+        <last_name>Wu</last_name>
+        <suffix/>
+        <affiliation>Tsinghua University</affiliation>
+        <country>China</country>
+        <email_address>chenyewu@tsinghua.edu.cn</email_address>
+        <sequence_no>2</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+    </authors>
+  </paper>
+  <paper>
+    <paper_type>Poster Paper</paper_type>
+    <paper_title>Poster: Defining a synthetic data generator for realistic electric vehicle charging sessions</paper_title>
+    <event_tracking_number>eenergy20posterdemo-p3</event_tracking_number>
+    <published_article_number/>
+    <start_page/>
+    <end_page/>
+    <authors>
+      <author>
+        <prefix/>
+        <first_name>Manu</first_name>
+        <middle_name/>
+        <last_name>Lahariya</last_name>
+        <suffix/>
+        <affiliation>IDLab, Ghent University - imec</affiliation>
+        <country>Belgium</country>
+        <email_address>manu.lahariya@ugent.be</email_address>
+        <sequence_no>1</sequence_no>
+        <contact_author>Y</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Dries</first_name>
+        <middle_name/>
+        <last_name>Benoit</last_name>
+        <suffix/>
+        <affiliation>Center for Statistics, Ghent University</affiliation>
+        <country/>
+        <email_address>dries.benoit@ugent.be</email_address>
+        <sequence_no>2</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Chris</first_name>
+        <middle_name/>
+        <last_name>Develder</last_name>
+        <suffix/>
+        <affiliation>IDLab, Ghent University - imec</affiliation>
+        <country/>
+        <email_address>chris.develder@ugent.be</email_address>
+        <sequence_no>3</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+    </authors>
+  </paper>
+</erights_record>

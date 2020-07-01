@@ -1,0 +1,2 @@
+main data/sample-main-acmcms-toc.xml
+poster data/sample-poster-acmcms-toc.xml
