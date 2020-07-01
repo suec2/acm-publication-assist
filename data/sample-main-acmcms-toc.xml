@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<erights_record>
+  <parent_data>
+    <proceeding>11214</proceeding>
+    <pacm/>
+    <volume/>
+    <issue/>
+    <issue_date/>
+  </parent_data>
+  <paper>
+    <paper_type>Short Paper</paper_type>
+    <paper_title>Using Satellite and Aerial Imagery for Identification of Solar PV: State of the Art and Research Opportunities</paper_title>
+    <event_tracking_number>eenergy20-p2</event_tracking_number>
+    <published_article_number/>
+    <start_page/>
+    <end_page/>
+    <authors>
+      <author>
+        <prefix/>
+        <first_name>Julian</first_name>
+        <middle_name/>
+        <last_name>De Hoog</last_name>
+        <suffix/>
+        <affiliation>IBM Research Australia</affiliation>
+        <country>Australia</country>
+        <email_address>juliandehoog@au1.ibm.com</email_address>
+        <sequence_no>1</sequence_no>
+        <contact_author>Y</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Stefan</first_name>
+        <middle_name/>
+        <last_name>Maetschke</last_name>
+        <suffix/>
+        <affiliation>IBM Research Australia</affiliation>
+        <country/>
+        <email_address>stefanrm@au1.ibm.com</email_address>
+        <sequence_no>2</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Peter</first_name>
+        <middle_name/>
+        <last_name>Ilfrich</last_name>
+        <suffix/>
+        <affiliation>IBM Research Australia</affiliation>
+        <country/>
+        <email_address>peter.ilfrich@au1.ibm.com</email_address>
+        <sequence_no>3</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Ramachandra Rao</first_name>
+        <middle_name/>
+        <last_name>Kolluri</last_name>
+        <suffix/>
+        <affiliation>IBM Research Australia</affiliation>
+        <country>Australia</country>
+        <email_address>rkolluri@au1.ibm.com</email_address>
+        <sequence_no>4</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+    </authors>
+  </paper>
+  <paper>
+    <paper_type>Full Paper</paper_type>
+    <paper_title>Long-term electricity market agent based model validation using genetic algorithm based optimization</paper_title>
+    <event_tracking_number>eenergy20-p10</event_tracking_number>
+    <published_article_number/>
+    <start_page/>
+    <end_page/>
+    <authors>
+      <author>
+        <prefix/>
+        <first_name>Alexander J. M.</first_name>
+        <middle_name/>
+        <last_name>Kell</last_name>
+        <suffix/>
+        <affiliation>Newcastle University</affiliation>
+        <country>United Kingdom</country>
+        <email_address>a.kell2@ncl.ac.uk</email_address>
+        <sequence_no>1</sequence_no>
+        <contact_author>Y</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Matthew</first_name>
+        <middle_name/>
+        <last_name>Forshaw</last_name>
+        <suffix/>
+        <affiliation>Newcastle University</affiliation>
+        <country/>
+        <email_address>matthew.forshaw@newcastle.ac.uk</email_address>
+        <sequence_no>2</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>A. Stephen</first_name>
+        <middle_name/>
+        <last_name>McGough</last_name>
+        <suffix/>
+        <affiliation>Newcastle University</affiliation>
+        <country/>
+        <email_address>stephen.mcgough@newcastle.ac.uk</email_address>
+        <sequence_no>3</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+    </authors>
+  </paper>
+  <paper>
+    <paper_type>Full Paper</paper_type>
+    <paper_title>Privacy Measures and Storage Technologies for Battery-Based Load Hiding - an Overview and Experimental Study</paper_title>
+    <event_tracking_number>eenergy20-p99</event_tracking_number>
+    <published_article_number/>
+    <start_page/>
+    <end_page/>
+    <authors>
+      <author>
+        <prefix/>
+        <first_name>Vadim</first_name>
+        <middle_name/>
+        <last_name>Arzamasov</last_name>
+        <suffix/>
+        <affiliation>Karlsruhe Institute of Technology (KIT)</affiliation>
+        <country>Germany</country>
+        <email_address>vadim.arzamasov@kit.edu</email_address>
+        <sequence_no>1</sequence_no>
+        <contact_author>Y</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Rebecca</first_name>
+        <middle_name/>
+        <last_name>Schwerdt</last_name>
+        <suffix/>
+        <affiliation>Karlsruhe Institute of Technology (KIT)</affiliation>
+        <country>Germany</country>
+        <email_address>rebecca.schwerdt@kit.edu</email_address>
+        <sequence_no>2</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Shahab</first_name>
+        <middle_name/>
+        <last_name>Karrari</last_name>
+        <suffix/>
+        <affiliation>Karlsruhe Institute of Technology (KIT)</affiliation>
+        <country>Germany</country>
+        <email_address>shahab.karrari@kit.edu</email_address>
+        <sequence_no>3</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Klemens</first_name>
+        <middle_name/>
+        <last_name>Böhm</last_name>
+        <suffix/>
+        <affiliation>Karlsruhe Institute of Technology (KIT)</affiliation>
+        <country>Germany</country>
+        <email_address>Klemens.Boehm@kit.edu</email_address>
+        <sequence_no>4</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+      <author>
+        <prefix/>
+        <first_name>Tien Bach</first_name>
+        <middle_name/>
+        <last_name>Nguyen</last_name>
+        <suffix/>
+        <affiliation>Karlsruhe Institute of Technology (KIT)</affiliation>
+        <country/>
+        <email_address>tien.nguyen@student.kit.edu</email_address>
+        <sequence_no>5</sequence_no>
+        <contact_author>N</contact_author>
+        <gender/>
+        <age/>
+        <ACM_profile_id/>
+        <ACM_client_no/>
+      </author>
+    </authors>
+  </paper>
+</erights_record>
