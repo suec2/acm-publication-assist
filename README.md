@@ -1,4 +1,4 @@
-# publication-assist
+# acm-publication-assist
 This repository contains functions that were used to generate spreadsheets to assist with the ACM publication process.
 
 ## Usage
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 2: Run the code
-#### publication-xml-to-csv.py
+#### publication_xml_to_csv.py
 This function converts the XML file available on the HotCRP website
 (via 'Settings' -> 'ACM' -> 'Download TOC' button) into a .csv file containing:
 - Paper Type
@@ -31,7 +31,7 @@ To test the code, use the following syntax:
 python publication_xml_to_csv.py data/sample-main-acmcms-toc.xml exported-data/sample-main-acmcms-toc.csv
 ```
 
-#### publication-checklist.py
+#### publication_checklist.py
 This function allows us to combine the information available in the ACM SIG Conference Management System with the paper information available on the HotCRP submission website to create a .xlsx file. For more details on the contents on the resulting .xlsx file, refer to the code.
 
 To run the code, use the following syntax:
@@ -44,7 +44,7 @@ To test the code, use the following syntax:
 python publication_checklist.py data/sample-acm-cms-export.csv data/sample-main-acmcms-toc.xml 'eenergy20-p' exported-data/sample-checklist.xlsx
 ```
 
-#### publication-registration-status.py
+#### publication_registration_status.py
 
 This function allows us to combine the following information:
 - .xml file containing the paper information that is available on the HotCRP submission website,
